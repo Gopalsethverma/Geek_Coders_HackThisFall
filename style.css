@@ -1,0 +1,33 @@
+.class{
+    color: rgb(71, 147, 213);
+}
+p{
+    background-color: antiquewhite;
+}
+.cls{
+    border-style: groove;
+    border-width: 2px;
+    margin: 300px;
+    font-size: xx-large;
+
+}
+body{
+background-image:url('https://tse3.mm.bing.net/th?id=OIP.HuvkcI7uWLNn767yuO1ElwHaLH&pid=Api&P=0') ;
+}
+
+.a :hover{ 
+    color:antiquewhite;
+    font-size: 3vw;
+}
+.a :active{
+    font-size: 3vw;
+}
+.nave{
+    background-color: rgb(143, 113, 77);
+
+}
+a{
+    letter-spacing: 2px;
+    margin: 0 16px;
+}
+
